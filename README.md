@@ -1,4 +1,6 @@
-![logo](https://github.com/surjo976/surjo/assets/82593116/2ec283bf-0ff6-4e3e-9c69-305e082057c0)
+[![][logo]][website-url]  
+[website-url]: https://tonmaysen.xyz/
+[logo]: https://github.com/surjo976/surjo/assets/82593116/2ec283bf-0ff6-4e3e-9c69-305e082057c0
 <h1 align="center">Hi 👋, I'm Tonmay Sen</h1>
 <h3 align="center">A passionate Mobile application developer from Bangladesh</h3>
 <!-- <img align="right"alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"> -->

@@ -1,8 +1,4 @@
-[![][banner-url]][website-url]
 
-[website-url]: https://ferdousmahmud.co
-[logo-url]: https://cdn.sanity.io/images/zt9eywci/production/7d33f10e8e7866b13ba307c1dc43e6fb9e1759cf-222x85.svg
-[banner-url]: https://user-images.githubusercontent.com/62091371/225542318-0479bc03-264f-4103-aa7c-8c2c8de3555c.png
 
 
 <h1 align="center">Hi 👋, I'm Tonmay Sen</h1>

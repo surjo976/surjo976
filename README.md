@@ -1,4 +1,7 @@
+[![][banner-url]][website-url]
 
+[website-url]: https://tonmaysen.xyz
+[banner-url]: https://github.com/surjo976/Doremon/assets/82593116/626665b5-0ed7-4a40-9d4d-df82a4de45b4
 
 
 <h1 align="center">Hi 👋, I'm Tonmay Sen</h1>

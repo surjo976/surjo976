@@ -1,6 +1,10 @@
-[![][logo]][website-url]  
-[website-url]: https://tonmaysen.xyz/
-[logo]: https://github.com/surjo976/surjo/assets/82593116/2ec283bf-0ff6-4e3e-9c69-305e082057c0
+[![][banner-url]][website-url]
+
+[website-url]: https://ferdousmahmud.co
+[logo-url]: https://cdn.sanity.io/images/zt9eywci/production/7d33f10e8e7866b13ba307c1dc43e6fb9e1759cf-222x85.svg
+[banner-url]: https://user-images.githubusercontent.com/62091371/225542318-0479bc03-264f-4103-aa7c-8c2c8de3555c.png
+
+
 <h1 align="center">Hi 👋, I'm Tonmay Sen</h1>
 <h3 align="center">A passionate Mobile application developer from Bangladesh</h3>
 <!-- <img align="right"alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"> -->

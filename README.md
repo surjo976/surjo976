@@ -1,6 +1,6 @@
 [![][banner-url]][website-url]
 
-[website-url]: https://tonmaysen.xyz
+[website-url]: https://tonmaysen.me
 [banner-url]: https://github.com/surjo976/Doremon/assets/82593116/76f3bfa7-9b0e-4b66-928b-6d16fcf54145
 
 
